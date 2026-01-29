@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1769677857940" clover="3.2.0">
+  <project timestamp="1769677857940" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="10" coveredconditionals="10" methods="8" coveredmethods="8" elements="37" coveredelements="37" complexity="0" loc="19" ncloc="19" packages="1" files="1" classes="1"/>
+    <file name="TodoManager.js" path="C:\Users\J_Sod\Desktop\Visual Studio\Todo manager\src\TodoManager.js">
+      <metrics statements="19" coveredstatements="19" conditionals="10" coveredconditionals="10" methods="8" coveredmethods="8"/>
+      <line num="3" count="9" type="stmt"/>
+      <line num="4" count="9" type="stmt"/>
+      <line num="9" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="14" count="4" type="stmt"/>
+      <line num="21" count="4" type="stmt"/>
+      <line num="22" count="4" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="32" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="37" count="2" type="stmt"/>
+      <line num="38" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="41" count="1" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="47" count="2" type="stmt"/>
+      <line num="48" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="56" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
